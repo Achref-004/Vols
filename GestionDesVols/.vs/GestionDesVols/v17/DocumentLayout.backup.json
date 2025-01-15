@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bejao\\source\\repos\\GestionDesVols\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4A2FF9-0A2A-4EF1-8D3D-37F1BD61A6AC}|GestionDesVols\\GestionDesVols.vbproj|c:\\users\\bejao\\source\\repos\\gestiondesvols\\gestiondesvols\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EF4A2FF9-0A2A-4EF1-8D3D-37F1BD61A6AC}|GestionDesVols\\GestionDesVols.vbproj|solutionrelative:gestiondesvols\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4A2FF9-0A2A-4EF1-8D3D-37F1BD61A6AC}|GestionDesVols\\GestionDesVols.vbproj|c:\\users\\bejao\\source\\repos\\gestiondesvols\\gestiondesvols\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EF4A2FF9-0A2A-4EF1-8D3D-37F1BD61A6AC}|GestionDesVols\\GestionDesVols.vbproj|solutionrelative:gestiondesvols\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4A2FF9-0A2A-4EF1-8D3D-37F1BD61A6AC}|GestionDesVols\\GestionDesVols.vbproj|c:\\users\\bejao\\source\\repos\\gestiondesvols\\gestiondesvols\\adminform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EF4A2FF9-0A2A-4EF1-8D3D-37F1BD61A6AC}|GestionDesVols\\GestionDesVols.vbproj|solutionrelative:gestiondesvols\\adminform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4A2FF9-0A2A-4EF1-8D3D-37F1BD61A6AC}|GestionDesVols\\GestionDesVols.vbproj|c:\\users\\bejao\\source\\repos\\gestiondesvols\\gestiondesvols\\reservationform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{EF4A2FF9-0A2A-4EF1-8D3D-37F1BD61A6AC}|GestionDesVols\\GestionDesVols.vbproj|solutionrelative:gestiondesvols\\reservationform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4A2FF9-0A2A-4EF1-8D3D-37F1BD61A6AC}|GestionDesVols\\GestionDesVols.vbproj|c:\\users\\bejao\\source\\repos\\gestiondesvols\\gestiondesvols\\reservationform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EF4A2FF9-0A2A-4EF1-8D3D-37F1BD61A6AC}|GestionDesVols\\GestionDesVols.vbproj|solutionrelative:gestiondesvols\\reservationform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4A2FF9-0A2A-4EF1-8D3D-37F1BD61A6AC}|GestionDesVols\\GestionDesVols.vbproj|c:\\users\\bejao\\source\\repos\\gestiondesvols\\gestiondesvols\\adminform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EF4A2FF9-0A2A-4EF1-8D3D-37F1BD61A6AC}|GestionDesVols\\GestionDesVols.vbproj|solutionrelative:gestiondesvols\\adminform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF4A2FF9-0A2A-4EF1-8D3D-37F1BD61A6AC}|GestionDesVols\\GestionDesVols.vbproj|c:\\users\\bejao\\source\\repos\\gestiondesvols\\gestiondesvols\\datamodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EF4A2FF9-0A2A-4EF1-8D3D-37F1BD61A6AC}|GestionDesVols\\GestionDesVols.vbproj|solutionrelative:gestiondesvols\\datamodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataModule.vb",
+              "DocumentMoniker": "C:\\Users\\bejao\\source\\repos\\GestionDesVols\\GestionDesVols\\DataModule.vb",
+              "RelativeDocumentMoniker": "GestionDesVols\\DataModule.vb",
+              "ToolTip": "C:\\Users\\bejao\\source\\repos\\GestionDesVols\\GestionDesVols\\DataModule.vb",
+              "RelativeToolTip": "GestionDesVols\\DataModule.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-12T12:37:52.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminForm.vb",
+              "DocumentMoniker": "C:\\Users\\bejao\\source\\repos\\GestionDesVols\\GestionDesVols\\AdminForm.vb",
+              "RelativeDocumentMoniker": "GestionDesVols\\AdminForm.vb",
+              "ToolTip": "C:\\Users\\bejao\\source\\repos\\GestionDesVols\\GestionDesVols\\AdminForm.vb",
+              "RelativeToolTip": "GestionDesVols\\AdminForm.vb",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAcwDgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-12T11:25:33.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservationForm.vb",
+              "DocumentMoniker": "C:\\Users\\bejao\\source\\repos\\GestionDesVols\\GestionDesVols\\ReservationForm.vb",
+              "RelativeDocumentMoniker": "GestionDesVols\\ReservationForm.vb",
+              "ToolTip": "C:\\Users\\bejao\\source\\repos\\GestionDesVols\\GestionDesVols\\ReservationForm.vb",
+              "RelativeToolTip": "GestionDesVols\\ReservationForm.vb",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAwwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-12T11:42:25.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservationForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\bejao\\source\\repos\\GestionDesVols\\GestionDesVols\\ReservationForm.vb",
+              "RelativeDocumentMoniker": "GestionDesVols\\ReservationForm.vb",
+              "ToolTip": "C:\\Users\\bejao\\source\\repos\\GestionDesVols\\GestionDesVols\\ReservationForm.vb [Design]",
+              "RelativeToolTip": "GestionDesVols\\ReservationForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-12T11:41:08.84Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\bejao\\source\\repos\\GestionDesVols\\GestionDesVols\\Form1.vb",
+              "RelativeDocumentMoniker": "GestionDesVols\\Form1.vb",
+              "ToolTip": "C:\\Users\\bejao\\source\\repos\\GestionDesVols\\GestionDesVols\\Form1.vb",
+              "RelativeToolTip": "GestionDesVols\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-12T11:11:31.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\bejao\\source\\repos\\GestionDesVols\\GestionDesVols\\Form1.vb",
+              "RelativeDocumentMoniker": "GestionDesVols\\Form1.vb",
+              "ToolTip": "C:\\Users\\bejao\\source\\repos\\GestionDesVols\\GestionDesVols\\Form1.vb [Design]",
+              "RelativeToolTip": "GestionDesVols\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-12T11:03:53.283Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\bejao\\source\\repos\\GestionDesVols\\GestionDesVols\\AdminForm.vb",
+              "RelativeDocumentMoniker": "GestionDesVols\\AdminForm.vb",
+              "ToolTip": "C:\\Users\\bejao\\source\\repos\\GestionDesVols\\GestionDesVols\\AdminForm.vb [Design]",
+              "RelativeToolTip": "GestionDesVols\\AdminForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-12T11:20:15.387Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
