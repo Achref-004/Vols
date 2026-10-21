@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="frontend/public/Screenshot 2026-05-29 160612.png"
+    alt="BNA Platform logo"
+  >
+</p>
+
+
 # GestionDesVols — Flight Management Desktop Application
 
 **Windows Forms flight management application written in VB.NET on .NET 8 — role-based access, flight catalogue administration, destination search and seat reservation with automatic receipt generation.**
@@ -24,7 +32,6 @@
 - [Current Limitations](#current-limitations)
 - [Future Improvements](#future-improvements)
 - [Contributors](#contributors)
-- [License](#license)
 - [Author](#author)
 
 ---
