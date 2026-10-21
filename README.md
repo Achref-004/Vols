@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="Screenshot 2026-10-21 152843.png"
+    src="Screenshot 2026-10-21 153018.png"
     alt="logo"
   >
 </p>
