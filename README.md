@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="frontend/public/Screenshot 2026-05-29 160612.png"
-    alt="BNA Platform logo"
+    src="Screenshot 2026-10-21 152843.png"
+    alt="logo"
   >
 </p>
 
